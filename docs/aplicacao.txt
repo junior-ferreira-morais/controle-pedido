@@ -1,0 +1,5 @@
+1- criar uma tela com menu para cadastrar produto, listar produtos e fazer pedido
+2- Montar o fluxo para cadastrar produto
+3- Montar o fluxo para listar os produtos
+4- Montar o fluxo para cadastrar pedido
+5- Montar o fluxo para listar pedidos
